@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bugsukeyywpyl"
+path="res://.godot/imported/mm_mm_mm (1).ogg-4b3ee60526399dfc35433a19706a137d.oggvorbisstr"
+
+[deps]
+
+source_file="res://data/00_judy/voice/closed_moans/mm_mm_mm (1).ogg"
+dest_files=["res://.godot/imported/mm_mm_mm (1).ogg-4b3ee60526399dfc35433a19706a137d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

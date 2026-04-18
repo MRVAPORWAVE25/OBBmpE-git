@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://n1jyw3fw8r8o"
+path="res://.godot/imported/aa (8).ogg-c7e21aefd5a77ef2f364d7c13de287b1.oggvorbisstr"
+
+[deps]
+
+source_file="res://data/00_judy/voice/open_moans/aa (8).ogg"
+dest_files=["res://.godot/imported/aa (8).ogg-c7e21aefd5a77ef2f364d7c13de287b1.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

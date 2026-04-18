@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://chl8mbv8sgb2x"
+path="res://.godot/imported/ahnn (9).ogg-1fd20258b90a0dd3c5825e8644b0e3be.oggvorbisstr"
+
+[deps]
+
+source_file="res://data/00_judy/voice/open_moans_long/ahnn (9).ogg"
+dest_files=["res://.godot/imported/ahnn (9).ogg-1fd20258b90a0dd3c5825e8644b0e3be.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
